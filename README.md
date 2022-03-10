@@ -1,4 +1,4 @@
-# GE-1-Python
+# GE1-Python
 
 Practice Practical Questions for Generic Elective I Computer Science, University of Delhi 
 Question1. Execution of expressions involving arithmetic, relational, logical, and bitwiseoperators in the shell window of Python IDLE.
