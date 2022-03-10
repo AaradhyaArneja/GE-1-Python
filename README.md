@@ -1,6 +1,7 @@
 # GE-1-Python
 
-Practice Practical Questions for Generic Elective I Computer Science, University of Delhi Question1. Execution of expressions involving arithmetic, relational, logical, and bitwiseoperators in the shell window of Python IDLE.
+Practice Practical Questions for Generic Elective I Computer Science, University of Delhi 
+Question1. Execution of expressions involving arithmetic, relational, logical, and bitwiseoperators in the shell window of Python IDLE.
 
 Question2. Write a Python function to produce the outputs such as: (a) 1 21 321 4321 b) 1 121 12321 1234321 12321 121 1
 
